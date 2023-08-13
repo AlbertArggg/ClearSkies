@@ -114,6 +114,8 @@ Domain Reload Profiling: 563ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
+Symbol file data-000001A0E88B9040 doesn't match image D:\GithubRepos\ClearSkies_AAG\ClearSkies\Clear Skies\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory doesn't match image D:\GithubRepos\ClearSkies_AAG\ClearSkies\Clear Skies\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\GithubRepos\ClearSkies_AAG\ClearSkies\Clear Skies\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  0.653 seconds
@@ -124,7 +126,7 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 1180ms
 	BeginReloadAssembly (118ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (19ms)
