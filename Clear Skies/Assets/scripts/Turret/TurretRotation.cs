@@ -33,6 +33,11 @@ public class TurretRotation : MonoBehaviour
     
     void Update()
     {
+        TurretRotationMouseInput();
+    }
+
+    private void TurretRotationMouseInput()
+    {
         float mouseX = Input.GetAxis("Mouse X");
         float mouseY = Input.GetAxis("Mouse Y");
 

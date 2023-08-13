@@ -48,7 +48,6 @@ public class TurretConfig : MonoBehaviour
         SetValue(ref rotationalClampValuesVertical[1], TurretConstants.DEFAULT_VERTICAL_CLAMP_MAX,
             "RotationalClampValues_Vertical[1]");
     }
-    
     private void SetValue(ref float value, float defaultValue, string label)
     {
         // if value is not initialized, use default values from Turret Constants
