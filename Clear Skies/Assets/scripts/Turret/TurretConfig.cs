@@ -55,12 +55,13 @@ public class TurretConfig : MonoBehaviour
         if (value == 0)
         {
             value = defaultValue;
-            Debug.LogWarning($"{label} not initialized, value set to default {value.ToString(CultureInfo.CurrentCulture)}");
+            ErrorLogs.LogErrorInConsole($"{label} not initialized, value set to default {value.ToString(CultureInfo.CurrentCulture)}", LogTypes.Warning);
         }
         else
         {
-            Debug.Log($"{label} value: {value.ToString(CultureInfo.CurrentCulture)}");
+            ErrorLogs.LogErrorInConsole($"{label} value: {value.ToString(CultureInfo.CurrentCulture)}",LogTypes.Log);
         }
     }
     #endregion
 }
+
