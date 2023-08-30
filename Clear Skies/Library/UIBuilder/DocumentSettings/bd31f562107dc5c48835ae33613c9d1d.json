@@ -1,6 +1,6 @@
 {
     "UxmlGuid": "bd31f562107dc5c48835ae33613c9d1d",
-    "UxmlPath": "Assets/UIToolkit/Menu_MainMenu.uxml",
+    "UxmlPath": "Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
     "CanvasWidth": 3840,
@@ -8,8 +8,8 @@
     "MatchGameView": false,
     "ZoomScale": 0.3499999940395355,
     "PanOffset": {
-        "x": -332.6253662109375,
-        "y": 138.68544006347657
+        "x": 413.3746337890625,
+        "y": 187.68544006347657
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,

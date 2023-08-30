@@ -355,6 +355,7 @@
 "Assets/Scripts/Constants/TurretConstants.cs"
 "Assets/Scripts/ErrorHandling/ErrorLogs.cs"
 "Assets/Scripts/Extensions/GameObjectExtensions.cs"
+"Assets/Scripts/TestScript.cs"
 "Assets/Scripts/Turret/TurretConfig.cs"
 "Assets/Scripts/Turret/TurretRotation.cs"
 "Assets/UIToolkit/MainMenu/BaseMenu/BaseMenu.cs"
