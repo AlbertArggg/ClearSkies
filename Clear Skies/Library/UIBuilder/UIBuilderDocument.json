@@ -7,37 +7,51 @@
         "m_CurrentCanvasTheme": 4,
         "m_CurrentCanvasThemeStyleSheetReference": {
             "fileID": -4733365628477956816,
-            "guid": "1eee19992befd0d4eb88f08e21a86eeb",
+            "guid": "528f9aa515e0e754a956d4be63e2ffb4",
             "type": 3
         },
         "m_CodePreviewVisible": true,
         "m_OpenUXMLFiles": [
             {
-                "m_OpenUSSFiles": [],
+                "m_OpenUSSFiles": [
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "f0ec98e347c45c446bbf44712b268a47",
+                            "type": 3
+                        },
+                        "m_BackupStyleSheet": {
+                            "instanceID": 0
+                        },
+                        "m_OldPath": "Assets/UIToolkit/MainMenu/MainMenu/uss_MainMenu.uss"
+                    }
+                ],
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/UIToolkit/Settings/Settings.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.uxml",
                 "m_VisualTreeAsset": {
                     "fileID": 9197481963319205126,
-                    "guid": "c1d8c1182fb82ba419b40cbde8a12f7c",
+                    "guid": "bd31f562107dc5c48835ae33613c9d1d",
                     "type": 3
                 },
                 "m_ActiveStyleSheet": {
-                    "instanceID": 0
+                    "fileID": 7433441132597879392,
+                    "guid": "f0ec98e347c45c446bbf44712b268a47",
+                    "type": 3
                 },
                 "m_Settings": {
-                    "UxmlGuid": "c1d8c1182fb82ba419b40cbde8a12f7c",
-                    "UxmlPath": "Assets/UIToolkit/Settings/Settings.uxml",
+                    "UxmlGuid": "bd31f562107dc5c48835ae33613c9d1d",
+                    "UxmlPath": "Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.uxml",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 350,
-                    "CanvasHeight": 450,
+                    "CanvasWidth": 3840,
+                    "CanvasHeight": 2160,
                     "MatchGameView": false,
-                    "ZoomScale": 1.0,
+                    "ZoomScale": 0.3499999940395355,
                     "PanOffset": {
-                        "x": 20.0,
-                        "y": 20.0
+                        "x": 413.3746337890625,
+                        "y": 187.68544006347657
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,

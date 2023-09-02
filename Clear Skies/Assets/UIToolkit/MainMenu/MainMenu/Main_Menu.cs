@@ -96,6 +96,7 @@ public class Main_Menu : MonoBehaviour
     private void BtnClickEvent_Start()
     {
         ErrorLogs.LogErrorInConsole("Main Menu Button Click Event \"New game\"", LogTypes.Log);
+        Instantiate(new GameObject("Clicked Main menu button"));
     }
     private void BtnClickEvent_Settings()
     {
