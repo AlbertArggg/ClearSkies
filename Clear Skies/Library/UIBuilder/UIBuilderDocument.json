@@ -13,45 +13,29 @@
         "m_CodePreviewVisible": true,
         "m_OpenUXMLFiles": [
             {
-                "m_OpenUSSFiles": [
-                    {
-                        "m_StyleSheet": {
-                            "fileID": 7433441132597879392,
-                            "guid": "f0ec98e347c45c446bbf44712b268a47",
-                            "type": 3
-                        },
-                        "m_BackupStyleSheet": {
-                            "instanceID": 0
-                        },
-                        "m_OldPath": "Assets/UIToolkit/MainMenu/MainMenu/uss_MainMenu.uss"
-                    }
-                ],
+                "m_OpenUSSFiles": [],
                 "m_VisualTreeAssetBackup": {
                     "instanceID": 0
                 },
-                "m_OpenendVisualTreeAssetOldPath": "Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.uxml",
+                "m_OpenendVisualTreeAssetOldPath": "",
                 "m_VisualTreeAsset": {
-                    "fileID": 9197481963319205126,
-                    "guid": "bd31f562107dc5c48835ae33613c9d1d",
-                    "type": 3
+                    "instanceID": 0
                 },
                 "m_ActiveStyleSheet": {
-                    "fileID": 7433441132597879392,
-                    "guid": "f0ec98e347c45c446bbf44712b268a47",
-                    "type": 3
+                    "instanceID": 0
                 },
                 "m_Settings": {
-                    "UxmlGuid": "bd31f562107dc5c48835ae33613c9d1d",
-                    "UxmlPath": "Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.uxml",
+                    "UxmlGuid": "",
+                    "UxmlPath": "",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 3840,
-                    "CanvasHeight": 2160,
+                    "CanvasWidth": 350,
+                    "CanvasHeight": 450,
                     "MatchGameView": false,
-                    "ZoomScale": 0.3499999940395355,
+                    "ZoomScale": 1.0,
                     "PanOffset": {
-                        "x": 413.3746337890625,
-                        "y": 187.68544006347657
+                        "x": 20.0,
+                        "y": 20.0
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,

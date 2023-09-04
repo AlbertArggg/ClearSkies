@@ -5,7 +5,7 @@ using UnityEngine;
 
 public enum LogTypes
 {
-    Log, Warning, Error
+    Log, Warning, Error, Other
 }
 
 public static class ErrorLogs

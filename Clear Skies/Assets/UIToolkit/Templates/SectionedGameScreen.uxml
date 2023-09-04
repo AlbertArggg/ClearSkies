@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="div-container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); align-self: center; width: 100%; height: 100%; flex-direction: row; flex-wrap: nowrap;">
+        <ui:VisualElement name="div-left" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: relative; width: 40%; height: 100%;">
+            <ui:VisualElement name="div-left-top" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+            <ui:VisualElement name="div-left-center" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20%;" />
+            <ui:VisualElement name="div-left-bottom" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="div-center" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: relative; width: 20%; height: 100%;">
+            <ui:VisualElement name="div-center-top" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+            <ui:VisualElement name="div-center-center" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20%;" />
+            <ui:VisualElement name="div-center-bottom" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="div-right" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: relative; width: 40%; height: 100%;">
+            <ui:VisualElement name="div-right-top" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+            <ui:VisualElement name="div-right-center" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20%;" />
+            <ui:VisualElement name="div-right-bottom" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 40%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
