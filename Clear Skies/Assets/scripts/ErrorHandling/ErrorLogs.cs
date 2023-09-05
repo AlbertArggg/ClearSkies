@@ -5,7 +5,7 @@ using UnityEngine;
 
 public enum LogTypes
 {
-    Log, Warning, Error, Other
+    Log, Warning, Error
 }
 
 public static class ErrorLogs
@@ -22,9 +22,6 @@ public static class ErrorLogs
                 break;
             case LogTypes.Error:
                 Debug.LogError(log);
-                break;
-            default:
-                throw new Exception($"Unhandled Log Type {lType} in Assets/Scripts/ErrorHandling/ErrorLogs");
                 break;
         }
     }

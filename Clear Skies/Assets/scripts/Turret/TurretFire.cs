@@ -14,7 +14,7 @@ public class TurretFire : MonoBehaviour
     private float _heatLowEnd;
     
     private float _gunHeat = 0f;
-    private const float MaxGunHeat = 100f;
+    private float _maxGunHeat = 100f;
     
     private int _fireRateCheck = 0;
     private bool _isFiring = false;
@@ -50,7 +50,7 @@ public class TurretFire : MonoBehaviour
         UpdateCooldownAndFireRate();
         UpdateFiringState();
         if (_isFiring) { HandleFiring(); } else { HandleCooling(); }
-        _gunHeat = Mathf.Clamp(_gunHeat, 0f, MaxGunHeat);
+        _gunHeat = Mathf.Clamp(_gunHeat, 0f, _maxGunHeat);
     }
 
     private void UpdateCooldownAndFireRate()
@@ -82,7 +82,7 @@ public class TurretFire : MonoBehaviour
     private void HandleCooling()
     {
         _gunHeat -= _fireRateSlowDownSpeed * Time.deltaTime;
-        if (_gunHeat < 20)
+        if (_gunHeat < _heatLowEnd)
         {
             _isCooling = false;
         }
@@ -90,7 +90,7 @@ public class TurretFire : MonoBehaviour
 
     private void CalculateCurrentFireRate()
     {
-        float heatPercentage = _gunHeat / MaxGunHeat;
+        float heatPercentage = _gunHeat / _maxGunHeat;
         _currentFireRate = Mathf.Lerp(_originalFireRate, 0f, heatPercentage);
     }
 

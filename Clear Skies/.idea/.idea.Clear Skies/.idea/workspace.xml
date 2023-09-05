@@ -5,34 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e8a856-f00f-428f-9e63-ad29da6890e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Clear Skies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clear Skies/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/ErrorHandling/ErrorLogs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ErrorHandling/ErrorLogs.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2e/2e781bc29dc0b95022626c2f83fa5cd7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3f/3f9a34a4af29d98e290e82e7fe19e897" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5b/5bf76526c8dbf636c6dab6b4dbbf65a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5d/5df74c9f0c2e8f8748d4e59340334603" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/78/78ed48f12f3b071deacb7e6f3f005d39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/ae744378796bbd11d89467aa0e42068b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ec/ecf7472121600d67fdf5993579cc0c94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/94/945a821455683d4d1555c5fd7f085870" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b2/b26bf7cd050bed54da07f7ed74669a0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg-inputdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag.payloads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aEDbg.dag_derived" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/UIBuilder/UIBuilderDocument.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIBuilder/UIBuilderDocument.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/Unity.UI.Builder.Builder.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/Unity.UI.Builder.Builder.pref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ilpp.pid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
@@ -40,7 +43,7 @@
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/GameObjectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turret/TurretFire.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Turret/TurretRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterPhysics/FloatingObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterPhysics/WaterManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterPhysics/WaveManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIToolkit/MainMenu/MainMenu/Main_Menu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -67,27 +73,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;G1Rached#21-TurretFireClass&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.build.unityPlugin&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "G1Rached#22-DynamicWaterPhysics-Buoyancy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.build.unityPlugin",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Alber\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Alber\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Alber\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Alber\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Alber\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\Alber\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity 2022.3.5f1\Editor\Unity.exe" />
@@ -140,7 +146,8 @@
       <workItem from="1693179609313" duration="1099000" />
       <workItem from="1693365282443" duration="851000" />
       <workItem from="1693680851806" duration="13482000" />
-      <workItem from="1693776593657" duration="13956000" />
+      <workItem from="1693776593657" duration="14559000" />
+      <workItem from="1693850565103" duration="7215000" />
     </task>
     <servers />
   </component>
